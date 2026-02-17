@@ -41,10 +41,10 @@ Predictive analytics platform built with Python and Scikit-learn to segment work
 ---
 
 ## 👤 About the Author
-[cite_start]**Anuradha Kashaudhan** [cite: 1]
-* [cite_start]**Education:** B.Tech CSE at Lovely Professional University (Rank 130) [cite: 48, 49, 47]
-* **Achievements:** 4-Star Coder on GFG | [cite_start]Software Developer Intern at Bluestock Fintech [cite: 46, 12]
-* [cite_start]**Connect:** [LinkedIn](https://linkedin.com/in/anuradha-kashaudhan) [cite: 2] | [cite_start][GitHub](https://github.com/AnuradhaKashaudhan) [cite: 4]
+**Anuradha Kashaudhan**
+**Education:** B.Tech CSE at Lovely Professional University (Rank 130)
+**Achievements:** 4-Star Coder on GFG | [cite_start]Software Developer Intern at Bluestock Fintech
+**Connect:** [LinkedIn](https://linkedin.com/in/anuradha-kashaudhan) [cite: 2] | [GitHub](https://github.com/AnuradhaKashaudhan) 
 
 ---
 © 2025 Anuradha Kashaudhan. Developed for performance optimization research.
